@@ -1,0 +1,112 @@
+body{
+    background: black;
+}
+
+.title{
+    width: 50%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+.week1{
+    background-color: white;
+    width: 75%;
+    border: 10px solid blue;
+    padding: 35px;
+    margin: 5px;
+    font-size: 120%;
+    font-family: 'Share Tech Mono', monospace;
+    box-shadow: -5px -5px rgb(0, 183, 255);
+    text-align: center;
+}
+
+.week2{
+    background-color: white;
+    width: 75%;
+    border: 10px solid blue;
+    padding: 35px;
+    margin: 5px;
+    font-size: 120%;
+    font-family: 'Share Tech Mono', monospace;
+    box-shadow: -5px -5px rgb(0, 183, 255);
+    text-align: center; 
+}
+
+.week3{
+    background-color: white;
+    width: 75%;
+    border: 10px solid blue;
+    padding: 35px;
+    margin: 5px;
+    font-size: 120%;
+    font-family: 'Share Tech Mono', monospace;
+    box-shadow: -5px -5px rgb(0, 183, 255);
+    text-align: center; 
+}
+
+.week4{
+    background-color: white;
+    width: 75%;
+    border: 10px solid blue;
+    padding: 35px;
+    margin: 5px;
+    font-size: 120%;
+    font-family: 'Share Tech Mono', monospace;
+    box-shadow: -5px -5px rgb(0, 183, 255);
+    text-align: center; 
+}
+
+.main{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    justify-content: space-evenly;
+}
+
+.week5{
+    background-color: white;
+    width: 75%;
+    border: 10px solid blue;
+    padding: 35px;
+    margin: 5px;
+    font-size: 120%;
+    font-family: 'Share Tech Mono', monospace;
+    box-shadow: -5px -5px rgb(0, 183, 255);
+    text-align: center;
+}
+.week6{
+    background-color: white;
+    width: 75%;
+    border: 10px solid blue;
+    padding: 35px;
+    margin: 5px;
+    font-size: 120%;
+    font-family: 'Share Tech Mono', monospace;
+    box-shadow: -5px -5px rgb(0, 183, 255);
+    text-align: center;
+}
+
+#group1{
+    display: flex;
+    width: 1000px;
+    height: 100%;
+    flex-direction: column;
+    padding: 10px
+}
+
+#group2{
+    display: flex;
+    width: 1000px;
+    height: 100%;
+    flex-direction: column;
+
+}
+
+#group3{
+    display: flex;
+    width: 1000px;
+    height: 100%;
+    flex-direction: column;
+}
